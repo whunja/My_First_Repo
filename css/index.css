@@ -1,0 +1,30 @@
+.navbar{
+   background-color: floralwhite; 
+   overflow: hidden;
+}
+.navbar a{
+    color: floralwhite;
+    background-color: darkblue;
+    display: inline-block;
+    text-align: center;
+    padding: 16px;
+}
+.left{
+ width: 29%;
+ height: 600px;
+ float: left;
+ border: 1px solid darkblue;
+ background-color:indigo ;
+ color: floralwhite;   
+}
+.right{
+    width: 70%;
+    height: 600px;
+    float: right;
+    background-color: aquamarine;
+}
+.top-right{
+    img {
+        float: left;
+      }
+}
